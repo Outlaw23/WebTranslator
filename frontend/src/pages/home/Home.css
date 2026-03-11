@@ -1,0 +1,33 @@
+.home {
+    width: 1000px;
+    margin: 40px auto;
+    position: relative;
+}
+
+/* achtergrond */
+
+
+.card-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.card {
+    font-size: 1.5em;
+    background: rgba(52, 62, 69, 0.85);
+    padding: 25px;
+    border-radius: 12px;
+    text-decoration: none;
+    color: white;
+    transition: transform 0.2s, background 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-6px);
+    background: rgba(52, 62, 69, 0.95);
+}
+
+h1 {
+    font-size: 50px;
+}
