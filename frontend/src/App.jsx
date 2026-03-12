@@ -12,11 +12,12 @@ function App() {
         <BrowserRouter>
             <Routes>
                 <Route element={<Layout />}>
-                    <Route path="/public" element={<Home />} />
+                    <Route path="/" element={<Home />} />
                     <Route path="/hado" element={<Hado />} />
                     <Route path="/hador" element={<HadoR />} />
                     <Route path="/learn" element={<Learn />} />
                     <Route path="/info" element={<Info />} />
+                    <Route path="*" element={<Home />} />
                 </Route>
             </Routes>
         </BrowserRouter>

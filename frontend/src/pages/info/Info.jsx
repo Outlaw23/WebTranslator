@@ -5,7 +5,7 @@ function Info() {
         <div className="info-wrapper">
             <div className="info-card">
 
-                <h1>🕷 Hado</h1>
+                <h1>info</h1>
 
                 <p>
                     Welcome to Hado! This language replaces letters using a fixed system.
