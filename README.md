@@ -18,18 +18,21 @@ Because I am still learning, this project helps me experiment with new concepts 
 | Java | Spring Boot | React | Maven | MariaDB | HTML | CSS | JavaScript |
 |-----|-----|-----|-----|-----|-----|-----|-----|
 | ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) | ![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg) | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) | ![Maven](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg) | ![MariaDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg) | ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) |
-
+---
 #### Home screen
 
 On the home screen there are sort of small
 explanations of what each screen does (besides the home, login screens).
 ![Home_Screen.png](Img_README/home_Screen.png)
 ---
-
+#### Info screen
+here is information about the hado language
+![info_screen.png](Img_README/info_Screen.png)
+---
 ### what I'm still working on
 
 - Small bugs
-- more screens
+- hado screen
 
 ---
 
@@ -37,7 +40,6 @@ explanations of what each screen does (besides the home, login screens).
 
 - User ID and password security
 
----
 ---
 
 ### link to app variant
