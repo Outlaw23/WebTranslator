@@ -15,8 +15,8 @@ Because I am still learning, this project helps me experiment with new concepts 
 
 ### Tech Stack
 
-| Java | Spring Boot | React | Maven | MariaDB | HTML | CSS | JavaScript |
-|-----|-----|-----|-----|-----|-----|-----|-----|
+| Java                                                                               | Spring Boot                                                                              | React                                                                                 | Maven                                                                                 | MariaDB                                                                                     | HTML                                                                                 | CSS                                                                               | JavaScript                                                                                           |
+|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
 | ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) | ![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg) | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) | ![Maven](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg) | ![MariaDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg) | ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) |
 ---
 
@@ -31,18 +31,20 @@ here is information about the hado language
 ![info_screen.png](Img_README/info_Screen.png)
 ---
 #### Hado screen
-the had screen translate any language to hado language but example english hado is different from dutch hado
+the hado screen translates any language to hado language, but for example, English hado is different from Dutch hado
 ![hado_screen.png](Img_README/hado_Screen.png)
+
+#### HadoR screen
+the hadoR screen will translate any hado language back to which language it translates
+![hador_screen.png](Img_README/hadoR_Screen.png)
 ### what I'm still working on
 
 - Small bugs
-- hado screen
+- learn Screen
 
 ---
 
 ### ideas that are coming
-
-- User ID and password security
 
 ---
 

@@ -6,6 +6,10 @@ const mapping = {
     x:"c"
 };
 
+const reversedMapping = Object.fromEntries(
+    Object.entries(mapping).map(([key, value]) => [value, key])
+);
+
 export function translateToHado(text) {
     return text
         .toLowerCase()
@@ -14,3 +18,10 @@ export function translateToHado(text) {
         .join("");
 }
 
+export function translateFromHado(text) {
+    return text
+        .toLowerCase()
+        .split("")
+        .map(letter => reversedMapping[letter] || letter)
+        .join("");
+}

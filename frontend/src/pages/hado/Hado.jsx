@@ -16,9 +16,10 @@ function Hado() {
 
     return (
         <div className="hado-container">
+            <h1>Hado</h1>
 
             <button className="translate-btn" onClick={translate}>
-                Translate
+                Translate to hado
             </button>
 
             <textarea

@@ -1,0 +1,47 @@
+h1{
+    font-size:50px;
+    margin-bottom: 10px;
+}
+
+.hado-container{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:20px;
+}
+
+.translate-btn{
+    width:80%;
+    height:50px;
+    font-size:25px;
+    align-self:flex-start;
+    margin-left:10%;
+    background: rgba(52, 62, 69, 0.85);
+    border:1px solid #333232;
+}
+
+.translate-btn:hover{
+    transform: translateY(-6px);
+    background: rgba(52, 62, 69, 0.95);
+}
+
+.input-box{
+    width:180%;
+    height:300px;
+    font-size:30px;
+    padding:15px;
+    background: rgba(52, 62, 69, 0.5);
+    border:1px solid #333232;
+}
+
+.input-box::placeholder {
+    color:white;
+}
+.output-box{
+    width:180%;
+    height:300px;
+    font-size:30px;
+    padding:15px;
+    background: rgba(52, 62, 69, 0.5);
+    border:1px solid #333232;
+}
